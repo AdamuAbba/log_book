@@ -1,12 +1,22 @@
 
 # Digi Log (incomplete)
 
-A mobile solution for job/task assignment 
+A mobile solution for job/task assignment made with flutter 
 
 
 ## Demo
+order..
 
-some pages
+- Intro Page                  
+- Greeting Page
+- Register Page
+- Login Page
+- Data Entry Page
+- Data View/Update Page
+- Data Deletion Page
+
+<img src="https://github.com/AdamuAbba/log_book/blob/main/images/Demo/introPage.gif" width="250" height="550" /> ---- <img src="https://github.com/AdamuAbba/log_book/blob/main/images/Demo/welcomeScreen.gif" width="250" height="550" /> ---- <img src="https://github.com/AdamuAbba/log_book/blob/main/images/Demo/registerPage.gif" width="250" height="550" /> ---- <img src="https://github.com/AdamuAbba/log_book/blob/main/images/Demo/loginScreen.gif" width="250" height="550" /> ---- <img src="https://github.com/AdamuAbba/log_book/blob/main/images/Demo/dataEntryPage.gif" width="250" height="550" /> ---- <img src="https://github.com/AdamuAbba/log_book/blob/main/images/Demo/dataViewAndEdit.gif" width="250" height="550" /> ---- <img src="https://github.com/AdamuAbba/log_book/blob/main/images/Demo/deleteDataPage.gif" width="250" height="550" />
+
 
 
   
@@ -24,6 +34,8 @@ some pages
 ## Features
 
 - simple design
+- really minimal but cool animations 
+- complete C.R.U.D implemented app
 - firebase Authentication service
 - firebase realtime Database
 - persistent loggin
@@ -31,8 +43,7 @@ some pages
   
 ## Roadmap
 
-- fix logging page (error)
-
+- fix login page (error)
 - add ios firebase support configuration
 - renovate entire project {this was my second flutter project :) so....yeah}
 
@@ -53,6 +64,6 @@ some pages
   
 ## Appendix
 
-i'm hoping to finish this someday, flutter is an amazing framework
+i'm hoping to finish this someday, flutter is an amazing framework and i love that bird 
 
   
