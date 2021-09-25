@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078651092393",
+    "project_id": "log-book-b2fd7",
+    "storage_bucket": "log-book-b2fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078651092393:android:9d176423a4250afb74d8b8",
+        "android_client_info": {
+          "package_name": "com.example.log_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078651092393-kamnkv2rcm4n3ijb16qvisg7kqra1d4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHvpmi4ncYjEYYYVOM0GUuZdnpiXLYCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078651092393-kamnkv2rcm4n3ijb16qvisg7kqra1d4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
