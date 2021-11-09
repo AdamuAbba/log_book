@@ -49,7 +49,7 @@ order..
 - complete C.R.U.D implemented app
 - firebase Authentication service
 - firebase realtime Database
-- persistent loggin
+- persistent login
 
   
 ## Roadmap
