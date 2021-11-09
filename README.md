@@ -3,7 +3,6 @@
 
 A mobile solution for job/task assignment made with flutter 
 
-
 ## Demo
 order..
 
@@ -26,9 +25,21 @@ order..
 
   
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abba-adamu-365a9b17a/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<a href="https://www.facebook.com/izshytypes" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+</a>
+<a href="https://www.instagram.com/shytypes1028/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+<a href="https://twitter.com/shytypes1028">
+<img alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+</a>
+<a href="https://abbaportfolio.netlify.app/"  target="_blank">
+<img alt="portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/abba-adamu-365a9b17a/">
+<img alt="linkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
   
 ## Features
@@ -50,9 +61,12 @@ order..
   
 ## Tech Stack
 
-**Client:** dart, flutter, 
+**Client:** <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=whit"/></a>
 
-**Server:** Google firebase
+**Server:** <a href="https://firebase.google.com/" target="_blank">
+<img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</a>
 
   
 ## Acknowledgements
